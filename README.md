@@ -1,0 +1,1 @@
+# wimo-support-automation-architecture
